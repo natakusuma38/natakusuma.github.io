@@ -1,0 +1,15 @@
+body {
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(156, 242, 253, 0.63) 0.1%, rgba(221, 245, 250, 0.63) 90.1%);
+}
+
+.footer{
+	margin: 0%;
+    padding: 0%;
+
+}
+
+.w_footer{
+	background: black;
+	color: white;
+	padding: 15px 30px;
+}
